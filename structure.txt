@@ -1,0 +1,20 @@
+fullstack-project/
+│
+├── backend/
+│   ├── server.js
+│   ├── algorithms/
+│   │   ├── sorting.js
+│   │   ├── searching.js
+│   │   └── graph.js
+│   ├── routes/
+│   │   └── algoRoutes.js
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── AlgoForm.jsx
+│   │   ├── pages/
+│   │   │   └── Home.jsx
+│   │   └── App.jsx
+│   └── package.json
