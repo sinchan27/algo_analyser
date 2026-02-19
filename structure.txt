@@ -10,11 +10,4 @@ fullstack-project/
 │   │   └── algoRoutes.js
 │   └── package.json
 │
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   └── AlgoForm.jsx
-│   │   ├── pages/
-│   │   │   └── Home.jsx
-│   │   └── App.jsx
-│   └── package.json
+

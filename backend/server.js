@@ -8,6 +8,9 @@ const routes=require('./routes/algo_routes')
 const PORT = process.env.PORT || 3000;
 
 
+app.get("/", (req, res) => {
+  res.send("Algorithm Analyzer Backend Running");
+});
 
 app.use('/sort',routes);
 app.use('/static', express.static(path.join(__dirname, 'public')));
